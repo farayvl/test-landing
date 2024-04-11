@@ -1,0 +1,458 @@
+@media screen and (max-width: 1230px) {
+    .block-hero-title {
+        font-size: 7.75rem;
+    }
+
+    .block-hero-description {
+        font-size: 4.70rem;
+    }
+
+    .block-hero-social-networks-dark {
+        gap: 33px;
+        padding-top: 35px;
+    }
+
+    .block-hero-column {
+        max-width: 411px;
+    }
+
+    .block-hero-portal svg {
+        width: 80px;
+        height: 81px;
+    }
+
+    .block-hero-img img {
+        width: 443px;
+        height: auto;
+    }
+
+    .block-hero {
+        max-width: 1000px;
+    }
+
+    header {
+        max-width: 1000px;
+    }
+
+    .header-links a {
+        font-size: 1.0rem;
+    }
+
+    .block-rates {
+        max-width: 1000px;
+    }
+
+    .block-rates-title {
+        font-size: 4.0rem;
+    }
+
+    .block-rates-description {
+        font-size: 1.2rem;
+        max-width: 165px;        
+    }
+
+    .card-title {
+        font-size: 17px;
+    }
+
+    .card-description-text {
+        font-size: 9px;
+    }
+
+    .card-community {
+        padding: 6px 18px;
+    }
+
+    .card-img img {
+        width: 176px;
+        height: auto;
+    }
+
+    .block-portfolio {
+        max-width: 1000px;
+    }
+
+    .block-skills {
+        max-width: 1000px;
+    }
+
+    .skills-percent svg{
+        width: 140px;
+        height: 140px;
+    }
+
+    .skills-description {
+        width: 240px;
+    }
+
+    .skills-title {
+        width: 100px;
+    }
+
+    .unsplash-title {
+        font-size: 30px;
+    }
+
+    .unsplash-description {
+        font-size: 25px;
+        width: 550px;
+    }
+
+    .block-bio {
+        max-width: 1000px;
+        margin: 0 auto;
+        margin-bottom: 240px;
+    }
+
+    .first-img {
+        width: 500px;
+    }
+
+    .second-img {
+        width: 500px;
+    }
+
+    .thirth-img {
+        width: 500px;
+    }
+
+    .bio-description {
+        font-size: 20px;
+        width: 430px;
+    }
+}
+
+@media screen and (max-width: 1040px) {
+    .block-hero {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .block-hero-img img{
+        max-width: 343px;
+    }
+
+    .block-hero-title {
+        font-size: 6.75rem;
+    }
+    
+    .block-hero-description {
+        margin-top: -5px;
+        font-size: 4.20rem;
+    }
+
+    .block-hero-social-networks-dark {
+        gap: 23px;
+        padding-top: 17px;
+    }
+
+    .block-hero-column {
+        max-width: 362px;
+    }
+
+    .block-hero-button {
+        display: flex;
+        padding: 22px 0px 0px 0px;
+    }
+
+    .block-hero-portal svg {
+        width: 60px;
+        height: 61px;
+    }
+
+    .block-rates-title {
+        font-size: 3.0rem;
+    }
+
+    .block-rates-description {
+        font-size: 1.0rem;
+        max-width: 161px;
+    }
+
+    .block-rates {
+        max-width: 800px;
+    }
+
+    header {
+        max-width: 800px;
+    }
+
+    .block-portfolio {
+        max-width: 800px;
+    }
+
+    .card-description-text {
+        font-size: 7px;
+    }
+
+    .card-img img {
+        width: 143px;
+        height: auto;
+    }
+
+    .block-skills {
+        max-width: 800px;
+    }
+
+    .skills-description {
+        width: 550px;
+    }
+
+    .first-text-title {
+        font-size: 45px;
+        gap: 20px;
+    }
+
+    .first-zigzag {
+        width: 135px;
+        height: auto;
+    }
+
+    .bio-description {
+        font-size: 17px;
+        width: 329px;
+    }
+
+    .first-img {
+        width: 379px;
+    }
+
+    .second-img {
+        width: 421px;
+    }
+
+    .thirth-img {
+        width: 380px;
+    }
+
+    .block-bio {
+        max-width: 800px;
+        margin: 0 auto;
+        margin-bottom: 240px;
+    }
+
+    .footer-description {
+        font-size: 14px;
+    }
+} 
+
+@media screen and (max-width: 840px) {
+    .block-hero-img {
+        display: none;
+    }
+
+    .block-hero-portal {
+        display: none;
+    }
+
+    .block-hero {
+        display: flex;
+        justify-content: center;
+    }
+
+    .block-hero-column {
+        max-width: 590px;
+    }
+
+    .block-hero-social-networks-dark {
+        gap: 68px;
+        padding-top: 17px;
+    }
+
+    .block-hero-description {
+        margin-top: 5px;
+        font-size: 6.50rem;
+    }
+
+    .block-hero-title {
+        font-size: 10.90rem;
+    }
+
+    .block-rates {
+        max-width: 700px;
+    }
+
+    .block-rates-dawn {
+        display: none;
+    }
+
+    .block-rates-description {
+        text-align: center;    
+    }
+
+    .block-rates-title {
+        text-align: center;
+    }
+
+    .portfolio-card:nth-child(5),
+    .portfolio-card:nth-child(6), 
+    .portfolio-card:nth-child(7), 
+    .portfolio-card:nth-child(8)  {
+        display: none;
+    }
+
+    .block-portfolio {
+        max-width: 700px;
+    }
+
+    .card-img img {
+        width: 293px;
+        height: auto;
+    }
+
+    .block-skills {
+        max-width: 700px;
+    }
+
+    .skills-card {
+        width: 100%;
+    }
+
+    .skills-description {
+        width: 425px;
+    }
+
+    .skills-title {
+        width: 125px;
+    }
+
+    .block-bio {
+        max-width: 700px;
+    }
+
+    .bio-description {
+        width: 300px;
+    }
+
+    .first-text-title {
+        font-size: 36px;
+    }
+
+    .first-zigzag {
+        width: 75px;
+        height: auto;
+    }
+
+    .first-img {
+        width: 376px;
+    }
+
+    .second-img {
+        width: 323px;
+    }
+
+    .thirth-img {
+        width: 375px;
+    }
+
+    .block-hero-social-networks-dark {
+        padding-top: 34px;
+    }
+
+    .block-hero-button {
+        padding: 30px 0px 0px 0px;
+    }
+
+    header {
+        max-width: 700px;
+    }
+
+    .header-links a {
+        font-size: 0.90rem;
+    }
+
+    .card-block {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .block-hero-title {
+        font-size: 7.90rem;
+    }
+
+    .block-hero-description {
+        margin-top: -3px;
+        font-size: 4.80rem;
+    }
+
+    .block-hero-column {
+        max-width: 427px;
+    }
+    
+    .block-hero-social-networks-dark {
+        gap: 36px;
+    }
+
+    .block-rates {
+        max-width: 600px;
+        margin: 0;
+        padding: 70px;
+    }
+
+    .block-rates-title {
+        text-align: center;
+        font-size: 2.8rem;
+    }
+
+    .block-rates-description {
+        text-align: center;
+        font-size: 1rem;
+    }
+
+    .card-img img {
+        width: 246px;
+        height: auto;
+    }
+
+    .block-portfolio {
+        max-width: 600px;
+    }
+
+    .skills-percent svg {
+        width: 109px;
+        height: 140px;
+    }
+
+    .header-links a {
+        display: none;
+    }
+
+    .header-buttons {
+        display: none;
+    }
+
+    header {
+        max-width: 700px;
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 595px) {
+
+    .block-rates-text {
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .block-portfolio {
+        max-width: 600px;
+        padding: 70px;
+        margin: 0;
+    }
+
+    .block-skills {
+        max-width: 700px;
+        margin: 0;
+        padding: 70px;
+    }
+}
+
+
+
+
+
